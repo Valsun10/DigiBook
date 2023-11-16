@@ -1,0 +1,20 @@
+.btn-sign-up {
+  margin-top: 65.95px;
+  width: 500px;
+  height: 42px;
+  background-color: #1076b5;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.btn-sign-up:hover {
+  transform: scale(0.97);
+}
+
+.log-in-here {
+  color: #08c642;
+  padding-left: 6px;
+}

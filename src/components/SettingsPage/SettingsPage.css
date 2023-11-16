@@ -1,0 +1,146 @@
+.wrapper-settings-page {
+  max-width: 1820px;
+  width: 100%;
+  height: 1080px;
+  margin: 32px auto;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.general-settings {
+  width: 50%;
+  height: 940px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #00347026;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+}
+
+.general-settings h1 {
+  font-size: 20px;
+  color: #0d242e;
+  padding: 34px 0 0 23px;
+  text-transform: uppercase;
+}
+
+.line {
+  width: 95%;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  margin: 55px 0 0 23px;
+}
+
+.line p {
+  font-size: 18px;
+  color: #0d242e;
+  text-transform: uppercase;
+  width: 38%;
+}
+
+.line img {
+  width: 2%;
+  height: 22px;
+}
+
+.blue-line {
+  width: 60%;
+  height: 3px;
+  background-color: #1076b5;
+}
+
+.book-settings {
+  width: 50%;
+  height: 940px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #00347026;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+}
+
+.nav-book-settings {
+  width: 100%;
+  height: 113px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-book-settings h1 {
+  font-size: 20px;
+  color: #0d242e;
+  padding-left: 21px;
+  text-transform: uppercase;
+}
+
+.link {
+  background-color: #08c642;
+  padding: 11.69px 32.5px;
+  border: none;
+  color: #ffffff;
+  margin-right: 20.85px;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#a {
+  font-size: 18px;
+  color: #0d242e;
+  text-transform: uppercase;
+  padding: 29px 0 0 21px;
+}
+
+.line-two {
+  width: 96%;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  margin: 1px 0 0 20px;
+}
+
+.line-two p {
+  font-size: 18px;
+  color: #0d242e;
+  text-transform: uppercase;
+  width: 25%;
+}
+
+.line-two img {
+  width: 2%;
+  height: 22px;
+}
+
+.blue-line2 {
+  width: 75%;
+  height: 3px;
+  background-color: #1076b5;
+}
+
+.line-twos {
+  width: 96%;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  margin: 55px 0 0 20px;
+}
+
+.line-twos p {
+  font-size: 18px;
+  color: #0d242e;
+  text-transform: uppercase;
+  width: 25%;
+}
+
+.line-twos img {
+  width: 2%;
+  height: 22px;
+}
