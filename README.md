@@ -1,3 +1,10 @@
+!!!!BEGINNER REACT PROJECT - USING REDUX TOOLKIT!!!!
+Download run npm install and then npm start!
+Admin Profile {
+username: elka,
+password: 123456
+}
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
