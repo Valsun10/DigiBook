@@ -1,4 +1,4 @@
-!!!!BEGINNER REACT PROJECT - USING REDUX TOOLKIT!!!!
+!!!!REACT PROJECT - USING REDUX TOOLKIT!!!!
 
 Download run npm install.
 Run npm start!
